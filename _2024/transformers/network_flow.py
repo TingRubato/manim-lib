@@ -1,3 +1,6 @@
+import sys
+sys.path.append(".")
+sys.path.append("..")
 import torch
 from manim_imports_ext import *
 from _2024.transformers.helpers import *
